@@ -8,5 +8,4 @@
 ![Imagem muito legal](./imagem%20legal.png)
 
 
-![logo marca](./Logo.png)
-Demonstração e exercicio CSS externo - turma T4
+<img src="./Logo.png" alt= "Logotipo" >
