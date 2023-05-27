@@ -5,4 +5,6 @@
 
 ### A extensão .md significa que este arquivo é escrito em linguagem MarkDown que é muito parecida com HTML
 
+![Imagem muito legal](./imagem%20legal.png)
+
 Demonstração e exercicio CSS externo - turma T4
