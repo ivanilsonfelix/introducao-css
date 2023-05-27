@@ -1,14 +1,25 @@
+body{
+    margin-left: 30px;
+
+}
+
+
 p{
     color: darkseagreen;
+    
 
 }
 .propaganda{
     font-size: 30px;
     color: orange;
+    
 
 }
 
 h1{
     font-size: 40px;
     color: fuchsia;
+    
+
+
 }
